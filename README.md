@@ -1,1 +1,1 @@
-JSON stringify
+json stringify
